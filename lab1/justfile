@@ -1,0 +1,5 @@
+build-legacy:
+  gcc-12 legacy.c -o build/legacy
+
+build-exp:
+  gcc-12 legacy_experiments.c -o build/legacy_experiments
