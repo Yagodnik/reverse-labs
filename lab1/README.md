@@ -1,0 +1,6 @@
+# Lab1 solution
+
+## Main task
+
+## Bonus task
+flag: flag{i_considered_giving_only_the_binary_24412707}
