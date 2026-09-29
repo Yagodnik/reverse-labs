@@ -1,0 +1,10 @@
+services:
+  re:
+    image: ubuntu:24.04
+    platform: linux/amd64
+    volumes:
+      - ./:/workspace
+    working_dir: /workspace
+    stdin_open: true
+    tty: true
+    command: sleep infinity
